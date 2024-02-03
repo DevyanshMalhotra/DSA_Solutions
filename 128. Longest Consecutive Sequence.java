@@ -1,4 +1,4 @@
-//  128. Longest Consecutive Sequence
+// 128. Longest Consecutive Sequence
 // t.c.:O(n)
 class Solution {
     public int longestConsecutive(int[] nums) {
